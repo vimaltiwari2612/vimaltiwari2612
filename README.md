@@ -1,4 +1,4 @@
 - 👋 Hi, I’m [***Vimal Tiwari***](https://github.com/vimaltiwari2612)
-- 👀 I’m interested in ***Content Creation*** and ***Software Engineering***
+- 👀 I’m interested in ***Content Creation*** and ***Software Development***
 - 💞️ I’m looking to collaborate on ***[Linkedin](https://www.linkedin.com/in/vimaltiwari2612/), [Quora](https://www.quora.com/profile/Vimal-Tiwari-4), [Medium](https://medium.com/@vimaltiwari2612)*** and ***[Github](https://github.com/vimaltiwari2612)***
 - 📫 You can reach out to me [here](vimaltiwari2612.github.io). 
